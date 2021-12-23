@@ -1,0 +1,6 @@
+hub CLIP-seq
+shortLabel CLIP
+longLabel Ago2_CLIP
+genomesFile https://raw.githubusercontent.com/Jeffrey106/HF/main/genomes.txt
+email wanghaining19@mails.ucas.ac.cn
+descriptionUrl descriptionUrl
