@@ -1,0 +1,12 @@
+track CLIP_HF_R1
+bigDataUrl HF_1.bw
+shortLabel total_R1
+longLabel CLIP_total_R1
+type bigWig
+
+
+track CLIP_HF_R2
+bigDataUrl HF_2.bw
+shortLabel total_R2
+longLabel CLIP_total_R2
+type bigWig
